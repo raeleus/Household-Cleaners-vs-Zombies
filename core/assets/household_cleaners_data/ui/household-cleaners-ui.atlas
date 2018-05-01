@@ -1,0 +1,191 @@
+
+household-cleaners-ui.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button
+  rotate: false
+  xy: 900, 1778
+  size: 90, 93
+  split: 13, 9, 12, 9
+  pad: 9, 13, 4, 4
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+button-pressed
+  rotate: false
+  xy: 992, 1778
+  size: 90, 93
+  split: 13, 9, 12, 9
+  pad: 9, 13, 5, 4
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+card
+  rotate: false
+  xy: 1865, 1888
+  size: 119, 131
+  split: 30, 30, 31, 29
+  pad: 4, 4, 1, 1
+  orig: 119, 131
+  offset: 0, 0
+  index: -1
+card-bleach
+  rotate: false
+  xy: 1, 669
+  size: 191, 146
+  orig: 191, 146
+  offset: 0, 0
+  index: -1
+card-broom
+  rotate: false
+  xy: 707, 1873
+  size: 191, 146
+  orig: 191, 146
+  offset: 0, 0
+  index: -1
+card-glass-cleaner
+  rotate: false
+  xy: 1, 521
+  size: 191, 146
+  orig: 191, 146
+  offset: 0, 0
+  index: -1
+card-glove
+  rotate: false
+  xy: 900, 1873
+  size: 191, 146
+  orig: 191, 146
+  offset: 0, 0
+  index: -1
+card-mop
+  rotate: false
+  xy: 1, 373
+  size: 191, 146
+  orig: 191, 146
+  offset: 0, 0
+  index: -1
+card-recycling
+  rotate: false
+  xy: 1093, 1873
+  size: 191, 146
+  orig: 191, 146
+  offset: 0, 0
+  index: -1
+card-sign
+  rotate: false
+  xy: 1, 225
+  size: 191, 146
+  orig: 191, 146
+  offset: 0, 0
+  index: -1
+card-spray
+  rotate: false
+  xy: 1286, 1873
+  size: 191, 146
+  orig: 191, 146
+  offset: 0, 0
+  index: -1
+font-export
+  rotate: false
+  xy: 1, 1063
+  size: 334, 335
+  orig: 334, 335
+  offset: 0, 0
+  index: -1
+font-price-export
+  rotate: false
+  xy: 1, 817
+  size: 243, 244
+  orig: 243, 244
+  offset: 0, 0
+  index: -1
+font-title-export
+  rotate: false
+  xy: 514, 1824
+  size: 191, 195
+  orig: 191, 195
+  offset: 0, 0
+  index: -1
+grave
+  rotate: false
+  xy: 1, 1400
+  size: 475, 416
+  split: 0, 475, 134, 241
+  pad: 23, 41, 28, 242
+  orig: 475, 416
+  offset: 0, 0
+  index: -1
+loading_0
+  rotate: false
+  xy: 1, 77
+  size: 191, 146
+  orig: 191, 146
+  offset: 0, 0
+  index: -1
+loading_1
+  rotate: false
+  xy: 1479, 1873
+  size: 191, 146
+  orig: 191, 146
+  offset: 0, 0
+  index: -1
+loading_2
+  rotate: false
+  xy: 1672, 1873
+  size: 191, 146
+  orig: 191, 146
+  offset: 0, 0
+  index: -1
+loading_3
+  rotate: false
+  xy: 337, 1252
+  size: 191, 146
+  orig: 191, 146
+  offset: 0, 0
+  index: -1
+loading_4
+  rotate: false
+  xy: 337, 1104
+  size: 191, 146
+  orig: 191, 146
+  offset: 0, 0
+  index: -1
+loading_5
+  rotate: false
+  xy: 707, 1725
+  size: 191, 146
+  orig: 191, 146
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1, 1818
+  size: 511, 201
+  orig: 511, 201
+  offset: 0, 0
+  index: -1
+slider
+  rotate: false
+  xy: 1, 1
+  size: 173, 74
+  split: 34, 35, 28, 28
+  pad: 0, 0, 0, 0
+  orig: 173, 74
+  offset: 0, 0
+  index: -1
+slider-knob
+  rotate: false
+  xy: 246, 987
+  size: 64, 74
+  orig: 64, 74
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 194, 814
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

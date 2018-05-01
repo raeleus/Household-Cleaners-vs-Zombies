@@ -1,0 +1,195 @@
+
+household-cleaners.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-left
+  rotate: false
+  xy: 475, 186
+  size: 30, 70
+  orig: 30, 70
+  offset: 0, 0
+  index: -1
+arm-right
+  rotate: false
+  xy: 179, 1
+  size: 61, 80
+  orig: 61, 80
+  offset: 0, 0
+  index: -1
+bleach
+  rotate: false
+  xy: 247, 199
+  size: 70, 110
+  orig: 70, 110
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 44, 21
+  size: 61, 81
+  orig: 61, 81
+  offset: 0, 0
+  index: -1
+broom
+  rotate: false
+  xy: 319, 186
+  size: 50, 131
+  orig: 50, 131
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 371, 155
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+burst
+  rotate: false
+  xy: 401, 319
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+coat
+  rotate: false
+  xy: 114, 103
+  size: 70, 90
+  orig: 70, 90
+  offset: 0, 0
+  index: -1
+foot-left
+  rotate: false
+  xy: 239, 134
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+foot-right
+  rotate: false
+  xy: 247, 167
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+glass-cleaner
+  rotate: false
+  xy: 186, 83
+  size: 51, 110
+  orig: 51, 110
+  offset: 0, 0
+  index: -1
+glove
+  rotate: false
+  xy: 371, 207
+  size: 50, 110
+  orig: 50, 110
+  offset: 0, 0
+  index: -1
+hand-left
+  rotate: false
+  xy: 239, 101
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+hand-right
+  rotate: false
+  xy: 281, 135
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 107, 21
+  size: 70, 80
+  orig: 70, 80
+  offset: 0, 0
+  index: -1
+leg-left
+  rotate: false
+  xy: 423, 164
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+leg-right
+  rotate: false
+  xy: 423, 236
+  size: 50, 81
+  orig: 50, 81
+  offset: 0, 0
+  index: -1
+money
+  rotate: false
+  xy: 309, 319
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+mop
+  rotate: false
+  xy: 207, 311
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+pop
+  rotate: false
+  xy: 454, 330
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+puddle
+  rotate: false
+  xy: 114, 195
+  size: 131, 110
+  orig: 131, 110
+  offset: 0, 0
+  index: -1
+recycling
+  rotate: false
+  xy: 309, 371
+  size: 110, 140
+  orig: 110, 140
+  offset: 0, 0
+  index: -1
+sign
+  rotate: false
+  xy: 421, 383
+  size: 72, 128
+  orig: 72, 128
+  offset: 0, 0
+  index: -1
+spray
+  rotate: false
+  xy: 1, 1
+  size: 41, 101
+  orig: 41, 101
+  offset: 0, 0
+  index: -1
+tie
+  rotate: false
+  xy: 475, 258
+  size: 31, 70
+  orig: 31, 70
+  offset: 0, 0
+  index: -1
+tile
+  rotate: false
+  xy: 1, 307
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+vacuum
+  rotate: false
+  xy: 1, 104
+  size: 111, 201
+  orig: 111, 201
+  offset: 0, 0
+  index: -1

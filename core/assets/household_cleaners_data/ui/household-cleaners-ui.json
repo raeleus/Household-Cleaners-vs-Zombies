@@ -1,0 +1,203 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	font: {
+		file: font-export.fnt
+	}
+	price: {
+		file: font-price-export.fnt
+	}
+	title: {
+		file: font-title-export.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	black: {
+		r: 0
+		g: 0
+		b: 0
+		a: 1
+	}
+	faded: {
+		r: 1
+		g: 1
+		b: 1
+		a: 0.49803922
+	}
+	hover: {
+		r: 0.71000004
+		g: 1
+		b: 0.7430923
+		a: 1
+	}
+	pressed: {
+		r: 0.45666668
+		g: 0.45666668
+		b: 0.45666668
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+	card-bleach-pressed: {
+		name: card-bleach
+		color: pressed
+	}
+	card-broom-pressed: {
+		name: card-broom
+		color: pressed
+	}
+	card-glass-cleaner-pressed: {
+		name: card-glass-cleaner
+		color: pressed
+	}
+	card-glove-pressed: {
+		name: card-glove
+		color: pressed
+	}
+	card-mop-pressed: {
+		name: card-mop
+		color: pressed
+	}
+	card-recycling-pressed: {
+		name: card-recycling
+		color: pressed
+	}
+	card-sign-pressed: {
+		name: card-sign
+		color: pressed
+	}
+	card-spray-pressed: {
+		name: card-spray
+		color: pressed
+	}
+	card-bleach-faded: {
+		name: card-bleach
+		color: faded
+	}
+	card-broom-faded: {
+		name: card-broom
+		color: faded
+	}
+	card-glass-cleaner-faded: {
+		name: card-glass-cleaner
+		color: faded
+	}
+	card-glove-faded: {
+		name: card-glove
+		color: faded
+	}
+	card-mop-faded: {
+		name: card-mop
+		color: faded
+	}
+	card-recycling-faded: {
+		name: card-recycling
+		color: faded
+	}
+	card-sign-faded: {
+		name: card-sign
+		color: faded
+	}
+	card-spray-faded: {
+		name: card-spray
+		color: faded
+	}
+}
+com.ray3k.householdcleaners.AnimationDrawable: {
+	default: {
+		regionName: loading
+		frameDuration: 0.01
+	}
+	loading: {
+		regionName: loading
+		frameDuration: 0.1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	default: {
+		up: card
+	}
+	bleach: {
+		up: card-bleach-faded
+		down: card-bleach-pressed
+		over: card-bleach
+		disabled: loading
+	}
+	broom: {
+		up: card-broom-faded
+		down: card-broom-pressed
+		over: card-broom
+		disabled: loading
+	}
+	glass-cleaner: {
+		up: card-glass-cleaner-faded
+		down: card-glass-cleaner-pressed
+		over: card-glass-cleaner
+		disabled: loading
+	}
+	glove: {
+		up: card-glove-faded
+		down: card-glove-pressed
+		over: card-glove
+		disabled: loading
+	}
+	mop: {
+		up: card-mop-faded
+		down: card-mop-pressed
+		over: card-mop
+		disabled: loading
+	}
+	recycling: {
+		up: card-recycling-faded
+		down: card-recycling-pressed
+		over: card-recycling
+		disabled: loading
+	}
+	sign: {
+		up: card-sign-faded
+		down: card-sign-pressed
+		over: card-sign
+		disabled: loading
+	}
+	spray: {
+		up: card-spray-faded
+		down: card-spray-pressed
+		over: card-spray
+		disabled: loading
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: {
+		font: font
+	}
+	title: {
+		font: title
+	}
+	price: {
+		font: price
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
+	default-horizontal: {
+		background: slider
+		knob: slider-knob
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: {
+		font: font
+		up: button
+		down: button-pressed
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: {
+	default: {
+		label: default
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+	default: {
+		background: card
+		titleFont: title
+	}
+}
+}
